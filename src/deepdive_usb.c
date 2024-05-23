@@ -38,7 +38,7 @@
 #include "deepdive_dev_tracker.h"
 #include "deepdive_dev_watchman.h"
 
-#include <json/json.h>
+#include <json-c/json.h>
 
 #include <stdio.h>
 #include <errno.h>
